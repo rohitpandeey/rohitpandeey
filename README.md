@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohit Pandey</h1>
 <h3 align="center">A passionate Full-stack Web developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React js**
+
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **rohitpandey.8477@gmail.com**
 
